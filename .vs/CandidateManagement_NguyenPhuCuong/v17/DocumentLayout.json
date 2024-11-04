@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7345AB21-0A02-49DD-A63A-5D3EDE947878}|Candidate_BussinessObjs\\Candidate_BussinessObjs.csproj|c:\\users\\acer\\desktop\\123\\cn5\\prn212\\candidatemanagement_nguyenphucuong\\candidate_bussinessobjs\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7345AB21-0A02-49DD-A63A-5D3EDE947878}|Candidate_BussinessObjs\\Candidate_BussinessObjs.csproj|solutionrelative:candidate_bussinessobjs\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82ECB57-5DA9-4DA4-AA45-219CB5EBE82F}|Candidate_DAOs\\Candidate_DAOs.csproj|C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\candidate_daos\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82ECB57-5DA9-4DA4-AA45-219CB5EBE82F}|Candidate_DAOs\\Candidate_DAOs.csproj|solutionrelative:candidate_daos\\candidatemanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7345AB21-0A02-49DD-A63A-5D3EDE947878}|Candidate_BussinessObjs\\Candidate_BussinessObjs.csproj|C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\candidate_bussinessobjs\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7345AB21-0A02-49DD-A63A-5D3EDE947878}|Candidate_BussinessObjs\\Candidate_BussinessObjs.csproj|solutionrelative:candidate_bussinessobjs\\efpt.config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7345AB21-0A02-49DD-A63A-5D3EDE947878}|Candidate_BussinessObjs\\Candidate_BussinessObjs.csproj|C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\candidate_bussinessobjs\\hraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7345AB21-0A02-49DD-A63A-5D3EDE947878}|Candidate_BussinessObjs\\Candidate_BussinessObjs.csproj|solutionrelative:candidate_bussinessobjs\\hraccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7345AB21-0A02-49DD-A63A-5D3EDE947878}|Candidate_BussinessObjs\\Candidate_BussinessObjs.csproj|C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\candidate_bussinessobjs\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7345AB21-0A02-49DD-A63A-5D3EDE947878}|Candidate_BussinessObjs\\Candidate_BussinessObjs.csproj|solutionrelative:candidate_bussinessobjs\\jobposting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82ECB57-5DA9-4DA4-AA45-219CB5EBE82F}|Candidate_DAOs\\Candidate_DAOs.csproj|C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\candidate_daos\\jobpostingdaos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82ECB57-5DA9-4DA4-AA45-219CB5EBE82F}|Candidate_DAOs\\Candidate_DAOs.csproj|solutionrelative:candidate_daos\\jobpostingdaos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82ECB57-5DA9-4DA4-AA45-219CB5EBE82F}|Candidate_DAOs\\Candidate_DAOs.csproj|C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\candidate_daos\\hraccountdaos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82ECB57-5DA9-4DA4-AA45-219CB5EBE82F}|Candidate_DAOs\\Candidate_DAOs.csproj|solutionrelative:candidate_daos\\hraccountdaos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F82ECB57-5DA9-4DA4-AA45-219CB5EBE82F}|Candidate_DAOs\\Candidate_DAOs.csproj|C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\candidate_daos\\candidateprofiledaos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F82ECB57-5DA9-4DA4-AA45-219CB5EBE82F}|Candidate_DAOs\\Candidate_DAOs.csproj|solutionrelative:candidate_daos\\candidateprofiledaos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CandidateManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\Candidate_DAOs\\CandidateManagementContext.cs",
+              "RelativeDocumentMoniker": "Candidate_DAOs\\CandidateManagementContext.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\Candidate_DAOs\\CandidateManagementContext.cs",
+              "RelativeToolTip": "Candidate_DAOs\\CandidateManagementContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:48:04.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CandidateProfile.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\Candidate_BussinessObjs\\CandidateProfile.cs",
+              "RelativeDocumentMoniker": "Candidate_BussinessObjs\\CandidateProfile.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\Candidate_BussinessObjs\\CandidateProfile.cs",
+              "RelativeToolTip": "Candidate_BussinessObjs\\CandidateProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:48:00.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "efpt.config.json",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\Candidate_BussinessObjs\\efpt.config.json",
+              "RelativeDocumentMoniker": "Candidate_BussinessObjs\\efpt.config.json",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\Candidate_BussinessObjs\\efpt.config.json",
+              "RelativeToolTip": "Candidate_BussinessObjs\\efpt.config.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-04T12:47:59.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Hraccount.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\Candidate_BussinessObjs\\Hraccount.cs",
+              "RelativeDocumentMoniker": "Candidate_BussinessObjs\\Hraccount.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\Candidate_BussinessObjs\\Hraccount.cs",
+              "RelativeToolTip": "Candidate_BussinessObjs\\Hraccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:47:59.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobPosting.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\Candidate_BussinessObjs\\JobPosting.cs",
+              "RelativeDocumentMoniker": "Candidate_BussinessObjs\\JobPosting.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\Candidate_BussinessObjs\\JobPosting.cs",
+              "RelativeToolTip": "Candidate_BussinessObjs\\JobPosting.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:47:58.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "JobPostingDAOs.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\Candidate_DAOs\\JobPostingDAOs.cs",
+              "RelativeDocumentMoniker": "Candidate_DAOs\\JobPostingDAOs.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\Candidate_DAOs\\JobPostingDAOs.cs",
+              "RelativeToolTip": "Candidate_DAOs\\JobPostingDAOs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:47:55.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HRAccountDAOs.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\Candidate_DAOs\\HRAccountDAOs.cs",
+              "RelativeDocumentMoniker": "Candidate_DAOs\\HRAccountDAOs.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\Candidate_DAOs\\HRAccountDAOs.cs",
+              "RelativeToolTip": "Candidate_DAOs\\HRAccountDAOs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:47:55.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CandidateProfileDAOs.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\Candidate_DAOs\\CandidateProfileDAOs.cs",
+              "RelativeDocumentMoniker": "Candidate_DAOs\\CandidateProfileDAOs.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\123\\Cn5\\PRN212\\CandidateManagement_NguyenPhuCuong\\Candidate_DAOs\\CandidateProfileDAOs.cs",
+              "RelativeToolTip": "Candidate_DAOs\\CandidateProfileDAOs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T12:47:53.435Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
